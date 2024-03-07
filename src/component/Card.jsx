@@ -8,6 +8,7 @@ function Card(props) {
       <div className="details">
         <p
           className="code"
+          
           onClick={(e) => {
             props.onClick(e);
           }}

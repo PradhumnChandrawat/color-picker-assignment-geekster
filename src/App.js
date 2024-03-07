@@ -84,10 +84,6 @@ function App() {
       name: "Coral",
     },
     {
-      hexCode: "#6495ED",
-      name: "Cornflower Blue",
-    },
-    {
       hexCode: "#DC143C",
       name: "Crimson",
     },
@@ -106,6 +102,14 @@ function App() {
     {
       hexCode: "#008080",
       name: "Teal",
+    },
+    {
+      hexCode: "#DC143C",
+      name: "Crimson",
+    },
+    {
+      hexCode: "#FF8000",
+      name: "Orange",
     },
   ];
 
